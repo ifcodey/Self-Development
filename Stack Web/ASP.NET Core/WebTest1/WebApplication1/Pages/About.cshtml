@@ -1,0 +1,56 @@
+﻿@page
+@model WebApplication1.Pages.AboutModel
+@using Microsoft.Extensions.Configuration;
+@inject IConfiguration config;
+
+@{
+}
+
+<h1>@Model.GetTitle()</h1>
+<p>We are a coding academy for tech a skill in programming.</p>
+
+@{
+    int n1 = 1;
+    int n2 = 2;
+    int n3 = n1 + n2;
+    <h1>@n3 </h1>
+}
+
+<h1>
+    @{
+        int n4 = 1;
+        int n5 = 2;
+        int n6 = n1 + n2;
+        <h1>@n6 </h1>
+    }
+</h1>
+
+<h1>@config["AboutPageTitle"]</h1>
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Author</td>
+            <td>Price</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var book in Model.GetBooks())
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.price</td>
+                </tr>
+            }
+        }
+    </tbody>
+
+</table>
+
+ @{
+     
+ }
