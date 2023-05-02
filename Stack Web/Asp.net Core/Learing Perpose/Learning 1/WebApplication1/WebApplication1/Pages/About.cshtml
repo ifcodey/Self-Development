@@ -1,0 +1,34 @@
+﻿@page
+@model WebAppUN.Pages.AboutModel
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration config
+
+
+@Model.GetPageTitle();
+
+<h2>@config["AboutPage"]</h2>
+<h2>@Model.GetTitle()</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Author</td>
+            <td>Price</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var book in Model.GetBook())
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.author</td>
+                    <td>@book.price</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
