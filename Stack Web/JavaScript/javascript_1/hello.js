@@ -402,4 +402,296 @@
 
 // console.log(x);
 
+// let mix = "A5DFG54";
+
+// let mixedContent = mix.split("").filter((ele) => {
+//     return !isNaN(parseInt(ele));
+// }).map((ele) => {
+//     return ele += ele;
+// }).join("");
+
+// console.log(mixedContent)
+
+
+
+// let nums = [10, 20, 15, 30];
+// // accumlator -> first element in array.
+// // current -> process element
+// let add = nums.reduce((acc, current, index, arr) => {
+//     console.log(`Current element :${current}`)
+//     console.log(`Accumlator element :${acc}`)
+//     return acc + current;
+// }, 5)
+
+// console.log(add);
+
+
+// let theBiggest = ["Aola", "Dasha", "Abo Baker"];
+// // accumlator -> first element in array.
+// // current -> process element
+// let add = theBiggest.reduce((acc, current) => {
+//     console.log(`Current element :${current}`)
+//     console.log(`Accumlator element :${acc}`)
+//     return acc.length > current.length ? acc : current ;
+// })
+
+// console.log(add);
+
+// let removeChars = ["I", "F", "C", "O", "D", "E", "Y", "@"];
+// let finalString = removeChars.filter((ele) => {
+//     return !ele.startsWith("@");
+// }).reduce((acc, current) => {
+// return `${acc}${current}`
+// })
+
+// console.log(finalString)
+
+// let allList = document.querySelectorAll("ul li");
+
+// allList.forEach((ele) => {
+//     ele.onclick = () => {
+//         allList.forEach((ele) => {
+//             // ele.classList.replace("active", "notactive");
+//             ele.style.display = "none";
+//         });
+//         this.classList.add("active");
+//     };
+// });
+
+
+
+// let girlfreind = "country";
+
+// let user = {
+//     //properites.
+//     theName: "Ahmed",
+//     theAge: 24,
+//     country: "palestine",
+//     "thePower": "weake",
+//     //method.
+//     sayHello: function () {
+//         console.log(`Hello`);
+//     },
+// };
+
+// console.log(user.theName);
+// console.log(user.theAge);
+// console.log(user["thePower"]);
+
+// console.log(user.country)
+// console.log(user[girlfreind])
+
+// console.log(user.sayHello());
+
+
+// let user = {
+//     name: "Ahmed",
+//     age: 24,
+//     skills: ["JAVA", "PYTHON", "C#"],
+//     available: false,
+//     address: {
+//         MainAddress: "Riyadh",
+//         egypt: {
+//             firstAddress: "Cairo",
+//             secondAdress: "Giza"
+//         },
+//     },
+//     checkAv: function () {
+//         if (user.available === true) {
+//             return `Free For Work`;
+//         } else {
+//             return `Not Free`;
+//         }
+//     }
+// };
+
+// console.log(user.name);
+// console.log(user.age);
+// console.log(user.skills[2]);
+// console.log(user.skills.join(" | "));
+// console.log(user.address.MainAddress);
+// console.log(user.address.egypt.firstAddress + " | " + user.address.egypt.secondAdress);
+// console.log(user.address.egypt)
+
+// console.log(user["address"].egypt.firstAddress)
+// console.log(user.checkAv())
+
+
+//==========================================================
+
+
+// let user = {
+//     age: 20,
+// }
+
+
+// let user = new Object();
+// // or
+// let wife = new Object({
+//     name: "tolen",
+//     age: "20",
+// });
+// console.log(user);
+
+// user.age = 24; //adding object attribute.
+// user["country"] = "Egypt";
+
+// user.sayHello = function () {
+//     return `Hello`;
+// }
+
+// console.log(user);
+// console.log(user.age);
+// console.log(user).country;
+// console.log(user.sayHello());
+
+
+//==========================================================
+
+
+// console.log(this);
+// console.log(this === window);
+
+// myVar = 100;
+// console.log(window.myVar);
+
+// function sayHello() {
+//     console.log(this);
+//     return this;
+// }
+// sayHello();
+// console.log(sayHello() === window);
+
+// document.getElementById("active").onclick = function () {
+//     console.log(this);
+// }
+
+// let user = {
+//     age: 38,
+//     ageInDays: function () {
+//         return this.age * 365; //this = user -> refer to object
+//     },
+// };
+
+// // console.log(user);
+// console.log(user.age);
+// console.log(user.ageInDays());
+
+// let obj = Object.create({});
+
+// obj.a = 100;
+// console.log(obj);
+
+// let copyObj = Object.create(user);
+
+// copyObj.age = 30;
+
+// console.log(copyObj);
+// console.log(copyObj.age);
+// console.log(copyObj.ageInDays());
+
+
+//==========================================================
+
+
+// let obj1 = {
+//     prop1: "smart",
+//     meth1: function () {
+//         return this.prop1;
+//     },
+// };
+
+// let obj2 = {
+//     prop2: "smart",
+//     meth2: function () {
+//         return this.prop2;
+//     },
+// };
+
+// let targetObject = {
+//     prop1: 1,
+//     prop3: 3,
+// };
+
+// let finalObject = Object.assign(targetObject, obj1, obj2);
+
+// finalObject.prop1 = 100;
+// finalObject.prop4 = 400;
+
+// console.log(finalObject);
+
+
+//==========================================================
+
+
+// let idEle = document.getElementById("my-div");
+// let tagEle = document.getElementsByTagName("p");
+// let classEle = document.getElementsByClassName("my-span");
+// let queryclassEle = document.querySelector(".special")
+// let queryidEle = document.querySelector("#my-div")
+// let queryAllEle = document.querySelectorAll(".my-span");
+
+// console.log(idEle);
+// console.log(tagEle[1].innerHTML);
+// console.log(classEle);
+// console.log(queryclassEle);
+// console.log(queryidEle);
+// console.log(queryAllEle);
+
+// console.log(document.title);
+// console.log(document.body);
+
+// console.log(document.forms[0]);
+// console.log(document.forms[0].one);
+// console.log(document.forms[0].one.value);
+
+// console.log(document.links[1].href)
+
+
+//==========================================================
+
+
+// let myEle = document.querySelector(".js");
+
+// console.log(myEle.innerHTML);
+// console.log(myEle.textContent);
+
+// myEle.innerHTML = "Text From <span>Main.js</span> File";
+// myEle.textContent = "Text From <span>Main.js</span> File";
+
+
+// document.images[0].src = "https://google.com";
+// document.images[0].alt="alternative";
+// document.images[0].title="picture";
+// document.images[0].id="pic";
+// document.images[0].className="picClass";
+
+// let myLink = document.querySelector(".link");
+
+// console.log(myLink.getAttribute("class"));
+// console.log(myLink.getAttribute("href"));
+
+
+// myLink.setAttribute("href","https://twitter.com");
+// myLink.setAttribute("title","twitter");
+
+
+//==========================================================
+
+
+// let ambition = true;
+// let skills = ["js", "python", "java", "c#"];
+
+// console.log(`Are you always be ambition ? ${ambition} \n`);
+
+// var temp = skills.reduce((acc, current) => {
+//     var x = acc + " - " + current;
+//     return `${x}`;
+// })
+
+// console.log(temp);
+
+
+//==========================================================
+
 

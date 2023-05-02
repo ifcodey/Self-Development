@@ -1,0 +1,15 @@
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.csproj.AssemblyReference.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.AssemblyInfoInputs.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.AssemblyInfo.cs
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.csproj.CoreCompileInputs.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\bin\Debug\net6.0\WebAppUN.Data.deps.json
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\bin\Debug\net6.0\WebAppUN.Data.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\bin\Debug\net6.0\WebAppUN.Data.pdb
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\bin\Debug\net6.0\WebAppUN.Core.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\bin\Debug\net6.0\WebAppUN.Core.pdb
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.csproj.CopyComplete
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\refint\WebAppUN.Data.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\WebAppUN.Data.pdb
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Data\obj\Debug\net6.0\ref\WebAppUN.Data.dll

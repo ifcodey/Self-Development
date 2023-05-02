@@ -1,0 +1,12 @@
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\bin\Debug\net6.0\WebAppUN.Core.deps.json
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\bin\Debug\net6.0\WebAppUN.Core.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\bin\Debug\net6.0\WebAppUN.Core.pdb
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.csproj.AssemblyReference.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.AssemblyInfoInputs.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.AssemblyInfo.cs
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.csproj.CoreCompileInputs.cache
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\refint\WebAppUN.Core.dll
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\WebAppUN.Core.pdb
+C:\Users\Codey\OneDrive\Desktop\Self-Development\Stack Web\Asp.net Core\Learing Perpose\Learning 1\WebApplication1\WebAppUN.Core\obj\Debug\net6.0\ref\WebAppUN.Core.dll

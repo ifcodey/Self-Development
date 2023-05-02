@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebAppUN/1.0.0": {
+        "dependencies": {
+          "WebAppUN.Core": "1.0.0",
+          "WebAppUN.Data": "1.0.0"
+        },
+        "runtime": {
+          "WebAppUN.dll": {}
+        }
+      },
+      "WebAppUN.Core/1.0.0": {
+        "runtime": {
+          "WebAppUN.Core.dll": {}
+        }
+      },
+      "WebAppUN.Data/1.0.0": {
+        "dependencies": {
+          "WebAppUN.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebAppUN.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAppUN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAppUN.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAppUN.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
